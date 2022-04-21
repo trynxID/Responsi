@@ -1,0 +1,6 @@
+D:\Kuliah C#\ResponsiPemrograman4484\ResponsiPemrograman4484\bin\Debug\ResponsiPemrograman4484.exe.config
+D:\Kuliah C#\ResponsiPemrograman4484\ResponsiPemrograman4484\obj\Debug\ResponsiPemrograman4484.csprojResolveAssemblyReference.cache
+D:\Kuliah C#\ResponsiPemrograman4484\ResponsiPemrograman4484\bin\Debug\ResponsiPemrograman4484.exe
+D:\Kuliah C#\ResponsiPemrograman4484\ResponsiPemrograman4484\bin\Debug\ResponsiPemrograman4484.pdb
+D:\Kuliah C#\ResponsiPemrograman4484\ResponsiPemrograman4484\obj\Debug\ResponsiPemrograman4484.exe
+D:\Kuliah C#\ResponsiPemrograman4484\ResponsiPemrograman4484\obj\Debug\ResponsiPemrograman4484.pdb
